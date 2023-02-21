@@ -1,0 +1,13 @@
+Analice y diseñe el algoritmo para solucionar el problema
+1) Iniciar el proceso al menos en una ocasion
+2) Preguntamos la edad de la persona, si es mayor de edad continuamos, si no finalizamos
+3) Preguntamos el nombre de la persona a cotizar
+4) Preguntamos si es casado y guardamos la respuesta
+5) Preguntamos si tiene hijos, si tiene ingresamos la cantidad de hijos, si no continuamos el proceso
+6) creamos un procedimiento para calcular el costo por edad validando por rango de edad, multiplicando el precio base por el porcentaje en base a edad
+7) Si la persona es casada, consultamos la edad y con el procedimiento calculamos el porcentaje a recargar tanto para el conyugue como para el asegurado 
+8) Si la persona no es casada simplemente calculamos el recargo para el asegurado con el procedimiento creado anteriormente
+9) Si la persona tiene hijos calculamos el costo en base a la cantidad de hijos por el 20%, si no se ingresa el dato correctamente, avisamos y terminamos el proceso
+10) Procedemos a calcular el costo total sumando los recargos con el precio base
+11) Mostramos los resultados 
+12) Preguntamos si se quiere sacar otra cotizcion, si se requiere seguimos, si no finalizamos el programa
